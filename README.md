@@ -1,4 +1,4 @@
-# pacetechS2BD-
+# pacetechS2BD
 Curso Desenvolvedor Java + Banco de dados 
 
 
